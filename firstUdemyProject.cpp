@@ -8,7 +8,8 @@
 int main()
 {
 	std::cout << "Hello World\n";
-
+	
+	//added to prevent console window from closing immediately 
 	std::getchar();
     return 0;
 }
